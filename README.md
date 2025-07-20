@@ -61,4 +61,8 @@ The application will be available at `http://localhost:8501` by default.
 - `requirements.txt` - Project dependencies
 
   ## Images
-  
+  <img width="1291" height="857" alt="Image" src="https://github.com/user-attachments/assets/f8e300a0-9c80-42ad-8625-c2544543af2a" />
+<img width="1919" height="956" alt="Image" src="https://github.com/user-attachments/assets/3215af92-f1d6-42fc-b8b2-a193cdb906df" />
+<img width="1915" height="953" alt="Image" src="https://github.com/user-attachments/assets/e0b2b1f6-2fb5-4f85-b064-b2ae5f4b88b5" />
+<img width="1917" height="955" alt="Image" src="https://github.com/user-attachments/assets/f9d3c399-fed2-48ee-9a23-0897be95955c" />
+<img width="1911" height="1079" alt="Image" src="https://github.com/user-attachments/assets/bd6252be-12a1-497d-93b7-3803cde9f6e5" />
