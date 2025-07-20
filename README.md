@@ -59,3 +59,6 @@ The application will be available at `http://localhost:8501` by default.
 - `utils.py` - Utility functions and helper methods
 - `prompt.py` - Prompt template
 - `requirements.txt` - Project dependencies
+
+  ## Images
+  
